@@ -9,6 +9,8 @@ Use the package manager [npm](https://nodejs.org/en) to run Summz.
 ```bash
 npm run dev
 ```
+##Usage
+You can explore the website using this [link.](https://ephemeral-haupia-9f0896.netlify.app/)
 ## ScreenShots
 <img width="1470" alt="modernbank" src="https://github.com/ParasK02/Modern-Banking-App/assets/90861109/e41d9e76-abdf-4aeb-aaf1-6cbdf6f1b36d">
 <img width="1469" alt="MBapp2" src="https://github.com/ParasK02/Modern-Banking-App/assets/90861109/9a8fa93d-588d-4449-9de5-830635faca8e">
