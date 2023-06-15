@@ -4,7 +4,7 @@ This web application is a landing page made for the modern banking app, Hoobank.
 
 ## Installation
 
-Use the package manager [npm](https://nodejs.org/en) to run Summz.
+Use the package manager [npm](https://nodejs.org/en) to run in developer mode.
 
 ```bash
 npm run dev
