@@ -9,7 +9,7 @@ Use the package manager [npm](https://nodejs.org/en) to run in developer mode.
 ```bash
 npm run dev
 ```
-##Usage
+## Usage
 You can explore the website using this [link.](https://ephemeral-haupia-9f0896.netlify.app/)
 ## ScreenShots
 <img width="1470" alt="modernbank" src="https://github.com/ParasK02/Modern-Banking-App/assets/90861109/e41d9e76-abdf-4aeb-aaf1-6cbdf6f1b36d">
